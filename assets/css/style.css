@@ -46,6 +46,9 @@ ul a {
     color: #122659;
     text-decoration: none;
 }
+.tel{
+    display:flex;
+    justify-content:right;
 .but a {
     background-color: #2F5DA1;
     border-radius: 10px;
